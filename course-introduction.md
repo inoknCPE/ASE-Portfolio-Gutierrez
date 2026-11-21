@@ -1,0 +1,5 @@
+# Course Introduction
+
+CPE Elective 3 (CPELX330 - Agentic Software Engineering), introduces the use of AI agents throughout the software development life cycle. The course explores how AI can assist requirements analysis, software design, coding, testing, documentation, deployment, and maintenance. It emphasizes collaboration between people and AI, prompt engineering, autonomous workflows, responsible AI, and the evaluation of agent-generated outputs. Through practical activities and projects, students develop skills in building and evaluating AI-assisted software while applying engineering standards, ethical judgment, and quality assurance.
+
+The Week 02-04 activity introduces the foundations of this course through intelligent agents, SDLC concepts, Agile and Scrum methods, Git and GitHub workflows, and responsible AI principles. This portfolio records my initial understanding of these topics and my learning goals, with attention to privacy, security, accountability, and human oversight.

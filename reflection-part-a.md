@@ -1,0 +1,9 @@
+# Reflection from Part A
+
+Part A helped me understand that Agentic Software Engineering involves more than asking AI to generate code. Agents can support tasks across the software development life cycle, but developers still need to define requirements, evaluate outputs, and make deployment decisions. An agent observes information and selects actions within its design constraints. Compared with a traditional application that follows predefined workflows, it may have greater flexibility in choosing how to pursue a goal. Learning is not required for every agent.
+
+I also learned why Agile methods suit this work. Small increments and regular feedback give developers opportunities to examine unexpected behavior and revise the design. However, frequent delivery must include testing against clear acceptance criteria. Git and GitHub can support traceable changes and collaboration, while engineers remain responsible for checking what each change does.
+
+As someone interested in cybersecurity, I found the risks of autonomous actions especially relevant. Incorrect outputs, excessive permissions, exposed personal information, and harmful bias can affect users even when a system appears useful. I would connect each identified risk to a safeguard, such as limited access, representative test cases, or approval before consequential actions.
+
+My main takeaway is that useful autonomy depends on clear boundaries and meaningful human oversight. Reviewers need enough information and authority to question outputs, reject actions, and stop unsafe behavior. In future projects, I would treat speed as one benefit to evaluate alongside reliability, privacy, fairness, and accountability.
